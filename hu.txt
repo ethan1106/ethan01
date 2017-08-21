@@ -1,1 +1,2 @@
-cd 
+ls
+import as ps
